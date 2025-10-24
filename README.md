@@ -1,6 +1,6 @@
 # De Bello Gallico 
 
-Are you sick of using [Lorem Ipsum](https://en.wikipedia.org/wiki/Lorem_ipsum) for LaTeX placeholder text, which is not even real Latin? Would you like to impress your fellow co-authors by your level of cultivation?
+Are you tired of using [Lorem Ipsum](https://en.wikipedia.org/wiki/Lorem_ipsum) for LaTeX placeholder text, which is not even real Latin? Would you like to impress your fellow co-authors with your level of cultivation?
 
 You can find the solution to these pressing issues in this reposity: `DeBelloGallico` will (*literally*) enable you to write placeholder text like Julius Caesar :herb:.
 
